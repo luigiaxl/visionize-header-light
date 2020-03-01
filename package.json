@@ -26,6 +26,9 @@
     "type": "git",
     "url": "git+https://github.com/luigiaxl/visionize-header-light.git"
   },
+  "files": [
+    "dist"
+  ],
   "author": "Luigi Axl Wagas",
   "license": "ISC",
   "bugs": {
