@@ -1,6 +1,6 @@
 {
   "name": "@luigiaxl/visionize-header-light",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Visionize header component",
   "main": "dist/VisionizeHeaderLight.umd.js",
   "module": "dist/VisionizeHeaderLight.esm.js",
